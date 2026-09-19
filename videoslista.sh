@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Caminho do arquivo com a lista de vídeos
-ARQUIVO="./home/videos/listavideos.txt"
+ARQUIVO="./listavideos.txt"
 
 # Verifica se o arquivo existe antes de rodar
 if [ ! -f "$ARQUIVO" ]; then
